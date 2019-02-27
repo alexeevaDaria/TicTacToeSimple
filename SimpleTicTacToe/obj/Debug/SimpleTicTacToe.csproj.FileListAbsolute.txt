@@ -1,0 +1,10 @@
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\bin\Debug\SimpleTicTacToe.exe.config
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\bin\Debug\SimpleTicTacToe.exe
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\bin\Debug\SimpleTicTacToe.pdb
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\SimpleTicTacToe.csprojResolveAssemblyReference.cache
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\SimpleTicTacToe.Form1.resources
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\SimpleTicTacToe.Properties.Resources.resources
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\SimpleTicTacToe.csproj.GenerateResource.Cache
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\SimpleTicTacToe.csproj.CoreCompileInputs.cache
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\SimpleTicTacToe.exe
+D:\ПОИТ 3 курс\курсы\tictactoe\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\SimpleTicTacToe.pdb
